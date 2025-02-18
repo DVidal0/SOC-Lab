@@ -1,7 +1,7 @@
 <h1>Home SOC</h1>
 
 <h2>Description</h2>
-The project consists on a basic home SOC lab made with a VM from Azure open to the internet.
+The project consists on a basic home SOC lab made with a VM from Azure. We will get the attacks by deactivating all security measures and making the VM fully open to the internet.
 <br/>
 
 <h2>Objectives</h2>
@@ -10,7 +10,7 @@ The project consists on a basic home SOC lab made with a VM from Azure open to t
 <h2>Environments Used </h2>
 - <b>Microsoft Azure</b>
 
-<h2>Walk-through:</h2>
+<h2>Walkthrough:</h2>
 Create a VM inside a Resource Group in Azure and disable the firewall and all protections. In this case it's a VM with Windows 10 installed.
 Once open to the internet, we start recieving login attempts. <br/>
 <p align="center">
