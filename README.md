@@ -39,7 +39,7 @@ Now we can query the failed login attempts and correlate the IP adresses with th
 
 Now we create a map using a workbook from Sentinel. This is the map of incoming attacks after 24 hours.
 <p align="center">
-<img src="https://drive.google.com/uc?export=view&id=10jdfuRqu7rvZv5OsD8kylg11zfFuJTaq" height="80%" width="80%" alt="SOC Lab Steps"/>
+<img src="https://drive.google.com/uc?export=view&id=110qgKi6kjb9tj5reEIxf5XDOeHDLoEB5" height="80%" width="80%" alt="SOC Lab Steps"/>
 <br/>
 
 Using Sentinel analytics we can create an alert rule that creates an alert when the number of failed login attempts is greater than a number.
@@ -47,9 +47,9 @@ Using Sentinel analytics we can create an alert rule that creates an alert when 
 <img src="https://drive.google.com/uc?export=view&id=10oCwOXgJeYMDt_JAkGdbNNW_n2LVbZJT" height="80%" width="80%" alt="SOC Lab Steps"/>
 <br/>
 
-The alert creates an incident that can be assigned for revision.
+Each alert creates an incident that can be assigned for revision.
 <p align="center">
-<img src="https://drive.google.com/uc?export=view&id=10oCwOXgJeYMDt_JAkGdbNNW_n2LVbZJT" height="80%" width="80%" alt="SOC Lab Steps"/>
+<img src="https://drive.google.com/uc?export=view&id=10tnrPCFROkHpUi3Y7pgDhIIFaKoMXiBo" height="80%" width="80%" alt="SOC Lab Steps"/>
 <br/>
 
 
